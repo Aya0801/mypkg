@@ -14,7 +14,9 @@ $ git clone https://github.com/Aya0801/robosys2022.git
 ```
 # 動作例1
 端末を二つ開く
+
 端末１
+
 入力
 
 ```
