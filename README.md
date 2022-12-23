@@ -11,7 +11,7 @@
 # ダウンロード方法
 ターミナルに入力
 ```
-$ git clone https://github.com/Aya0801/robosys2022.git
+$ git clone https://github.com/Aya0801/mypkg.git
 ```
 # 動作例1
 端末を二つ開く
