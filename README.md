@@ -1,12 +1,11 @@
 # mypkg
+![test](https://github.com/Aya0801/mypkg/actions/workflows/test.yml/badge.svg)
+
 * このリポジトリはROS2のパッケージです
 * ロボットシステム学練習リポジトリ
 # 機能
 * talkerで0から数字をカウントする
 * listenerはtalkerでカウントした数字を標準出力で出力する
-
-# コマンドのテスト
-![test](https://github.com/Aya0801/mypkg/actions/workflows/test.yml/badge.svg)
 
 # ダウンロード方法
 ターミナルに入力
@@ -57,7 +56,7 @@ $ ros2 launch mypkg talk_listen.launch.py
 
 
 ## 必要なソフトウエア
-* ROS2
+* ROS2 foxy
 
 ## テスト環境
 * Ubuntu 20.04.5LTS
