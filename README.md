@@ -20,12 +20,10 @@ $ git clone https://github.com/Aya0801/mypkg.git
 入力
 
 ```
-$ cd ros2_ws
 $ ros2 run mypkg talker　
 ```
 端末2
 ```
-$ cd ros2_ws
 $ ros2 run mypkg listener　
 ```
 
@@ -41,7 +39,6 @@ $ ros2 run mypkg listener　
 # 動作例2
 入力
 ```
-$ cd ros2_ws
 $ ros2 launch mypkg talk_listen.launch.py
 ```
 出力

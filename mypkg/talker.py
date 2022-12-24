@@ -1,4 +1,4 @@
-# SPDX -FileCopyrightText:2022 Atsuya Sawayama
+# SPDX-FileCopyrightText:2022 Atsuya Sawayama
 # SPDX-License-Identifier: BSD-3-Clause
 
 import rclpy                     
